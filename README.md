@@ -2,6 +2,8 @@
 
 你是我的小号
 
+pr
+
 <!--
 **sbsznmsl/sbsznmsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
